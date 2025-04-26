@@ -30,7 +30,7 @@ Hi, I'm Srushti👋<br/>
    ✔️ Hands-on DevOps experience using GitLab, Jira, and Scrum practices
 
 🧠 Projects & More<br/>
- 📱 Mobile Budgeting App (React Native + Firebase)<br/>  
+ 📱 Mobile Budgeting App (React Native + Firebase)<br/> 
  🐶 “Petstagram Hackathon" app — 🥈 Second Prize @ EzyVet Hackathon<br/> 
  🔧 Skilled Workers Finder app — 🥈 Second Prize @ Accenture Tech Bootcamp<br/> 
 
@@ -145,13 +145,11 @@ Hi, I'm Srushti👋<br/>
 
 
 
-
 <div align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/srushti-mb-922046205/" target="_blank">
+  <a href="https://www.linkedin.com/in/srushti-mb-922046205/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCP_R6wEMOxDeDHjVBhtV6jA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
