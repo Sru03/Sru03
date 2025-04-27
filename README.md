@@ -45,7 +45,7 @@ Hi, I'm Srushti👋<br/>
  🌏 Languages: English, Kannada, Hindi (professional proficiency in all!)<br/>
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ###
 
 <div align="left">
@@ -122,7 +122,7 @@ Hi, I'm Srushti👋<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Sru03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sru03&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sru03&theme=gruvbox_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sru03&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -142,7 +142,7 @@ Hi, I'm Srushti👋<br/>
   <img src="https://profile-counter.glitch.me/Sru03/count.svg?"  />
 </div>
 
-# Socials :
+# Socials 
 <div align="left">
   <a href="https://www.linkedin.com/in/srushti-mb-922046205/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
