@@ -137,12 +137,12 @@ Hi, I'm Srushti👋<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+#
 <div align="center">
   <img src="https://profile-counter.glitch.me/Sru03/count.svg?"  />
 </div>
 
-
+# Socials :
 <div align="left">
   <a href="https://www.linkedin.com/in/srushti-mb-922046205/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -152,6 +152,7 @@ Hi, I'm Srushti👋<br/>
   </a>
 </div>
 
+# Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![DIY Music Visualizer](https://ytcards.demolab.com/?id=iZUwqIeDA6A&title=DIY+Music+Visualizer&lang=en&timestamp=1699703030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DIY Music Visualizer")](https://www.youtube.com/watch?v=iZUwqIeDA6A)
 [![Mobile budgeting App Premiere](https://ytcards.demolab.com/?id=Rx7lkJmYpFM&title=Mobile+budgeting+App+Premiere&lang=en&timestamp=1686145074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mobile budgeting App Premiere")](https://www.youtube.com/watch?v=Rx7lkJmYpFM)
