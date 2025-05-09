@@ -1,6 +1,6 @@
 
 Hi, I'm Srushti👋<br/>
-    👩🏻‍💻 Software Engineering (with a minor in AI) <br/>
+    👩🏻‍💻 Software Engineer Graduate (with a minor in AI) <br/>
     👩🏻‍🎓 Studied Bachelor of Engineering (Honours) - Software Engineering at Auckland University of Technology Auckland, New Zealand.<br/>
     💡 Passionate about building real-world tech — from backend systems to front-end experiences and providing high functional software products.<br/>
     🚀 Fast learner, problem-solver, and creative thinker who thrives in collaborative, agile environments<br/>
@@ -30,7 +30,7 @@ Hi, I'm Srushti👋<br/>
    ✔️ Hands-on DevOps experience using GitLab, Jira, and Scrum practices
 
 🧠 Projects & More<br/>
- 📱 Mobile Budgeting App (React Native + Firebase)<br/> 
+ 📱 Mobile Budgeting App (React Native + JavaScript + Firebase)<br/> 
  🐶 “Petstagram Hackathon" app — 🥈 Second Prize @ EzyVet Hackathon<br/> 
  🔧 Skilled Workers Finder app — 🥈 Second Prize @ Accenture Tech Bootcamp<br/> 
 
