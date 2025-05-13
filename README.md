@@ -1,9 +1,10 @@
 
 Hi, I'm Srushti👋<br/>
-    👩🏻‍💻 Software Engineer Graduate (with a minor in AI) <br/>
-    👩🏻‍🎓 Studied Bachelor of Engineering (Honours) - Software Engineering at Auckland University of Technology Auckland, New Zealand.<br/>
+    👩🏻‍💻 Graduate Software Engineer (with a minor in AI) <br/>
+    👩🏻‍🎓 Studied Bachelor of Engineering (Honours) Degree in Software Engineering at [ Auckland University of Technology ]<br/>
     💡 Passionate about building real-world tech — from backend systems to front-end experiences and providing high functional software products.<br/>
     🚀 Fast learner, problem-solver, and creative thinker who thrives in collaborative, agile environments<br/>
+  
     
 
 <--CURRENT OBJECTIVES--><br/>
@@ -36,13 +37,13 @@ Hi, I'm Srushti👋<br/>
 
 🎓 Mentorship & Teaching<br/>
  👩‍🏫 SQL Tutor (Database System Design) @AUT  
- ⚙️ Embedded Systems TA – helping students break down complex software problems<br/>  
+ ⚙️ Embedded Software Engineering TA @AUT<br/>  
  
 
  ⚡ Fun Facts<br/>
- 🌟 Student Ambassador & active in AUTISA + CSEA communities  
+ 🌟 Student Ambassador & was active club member of AUTISA + CSEA communities  
  🎨 I love designing, creating content, and finding the beauty in tech & code  
- 🌏 Languages: English, Kannada, Hindi (professional proficiency in all!)<br/>
+
 
 
 # 💻 Tech Stack
