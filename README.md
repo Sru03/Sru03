@@ -1,7 +1,7 @@
 
 Hi, I'm Srushti👋<br/>
     👩🏻‍💻 Graduate Software Engineer (with a minor in AI) <br/>
-    👩🏻‍🎓 Studied Bachelor of Engineering (Honours) Degree in Software Engineering at [Auckland University of Technology]<br/>
+    👩🏻‍🎓 Studied Bachelor of Engineering (Honours) Degree in Software Engineering from [Auckland University of Technology]<br/>
     💡 Passionate about building real-world tech — from backend systems to front-end experiences and providing high functional software products.<br/>
     🚀 Fast learner, problem-solver, and creative thinker who thrives in collaborative, agile environments<br/>
   
