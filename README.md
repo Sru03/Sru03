@@ -125,6 +125,10 @@ Hi, I'm Srushti👋<br/>
 
 # Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![DIY Music Visualizer](https://ytcards.demolab.com/?id=iZUwqIeDA6A&title=DIY+Music+Visualizer&lang=en&timestamp=1699703030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DIY Music Visualizer")](https://www.youtube.com/watch?v=iZUwqIeDA6A)
+[![Mobile budgeting App Premiere](https://ytcards.demolab.com/?id=Rx7lkJmYpFM&title=Mobile+budgeting+App+Premiere&lang=en&timestamp=1686145074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mobile budgeting App Premiere")](https://www.youtube.com/watch?v=Rx7lkJmYpFM)
+[![React Native Data Visualization | Progress Ring, Stacked graph, Pie chart and Bar chart](https://ytcards.demolab.com/?id=IfNzLZ0bzco&title=React+Native+Data+Visualization+%7C+Progress+Ring%2C+Stacked+graph%2C+Pie+chart+and+Bar+chart&lang=en&timestamp=1683638771&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "React Native Data Visualization | Progress Ring, Stacked graph, Pie chart and Bar chart")](https://www.youtube.com/watch?v=IfNzLZ0bzco)
+[![Mobile Budgeting  App Review : Sprint -1](https://ytcards.demolab.com/?id=k6fpjjQ51EA&title=Mobile+Budgeting++App+Review+%3A+Sprint+-1&lang=en&timestamp=1683584099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mobile Budgeting  App Review : Sprint -1")](https://www.youtube.com/watch?v=k6fpjjQ51EA)
+[![Summer Bus Ride ~  NZ](https://ytcards.demolab.com/?id=R_qjrak-okw&title=Summer+Bus+Ride+~++NZ&lang=en&timestamp=1674247111&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Summer Bus Ride ~  NZ")](https://www.youtube.com/watch?v=R_qjrak-okw)
 <!-- END YOUTUBE-CARDS -->
 
